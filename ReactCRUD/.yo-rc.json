@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "day-6",
+    "libraryId": "69088479-d2c3-473a-8073-fd0c1bc28045",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "day-6",
+    "solutionShortDescription": "day-6 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
